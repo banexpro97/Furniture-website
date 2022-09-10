@@ -1,2 +1,2 @@
 # Furniture-website
-website made for a furniture creator and seller
+website made for a furniture creator and seller SM Sistem
